@@ -1,5 +1,5 @@
 # Hipparchus
 
-Using optimizing to resolve a challenging inference ...
+Analyzing cepheids ...
 
 ![Image](hipparchus.png?raw=true)
